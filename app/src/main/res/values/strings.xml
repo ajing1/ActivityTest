@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="姓名____________">MainActivity</string>
+    <string name="学号____________">MainActivity</string>
+    <string name="登陆">MainActivity</string>
+    <string name="注册">MainActivity</string>
+    <string name="性别">SecondActivity</string>
+</resources>
